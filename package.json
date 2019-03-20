@@ -49,6 +49,7 @@
     "create-hash": "^1.2.0",
     "create-hmac": "^1.1.7",
     "crypto-browserify": "^3.12.0",
+    "crypto-js": "^3.1.9-1",
     "ecdsa": "^0.7.0",
     "ecurve": "^1.0.5",
     "js-nacl": "^1.2.2",
